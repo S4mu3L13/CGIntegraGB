@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\Git\Git Upload\1-Computacao_Grafica\Projeto Final\src\main.cpp(159,19): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+  Visualizador3D.vcxproj -> D:\Git\Git Upload\1-Computacao_Grafica\Projeto Final\build\Debug\Visualizador3D.exe

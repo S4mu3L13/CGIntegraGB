@@ -1,0 +1,7 @@
+camera 0.0 2.0 10.0  0.0 -90.0 0.0
+
+model assets/artorias.obj assets/textura1.png  0.0 0.0 0.0  0.0 0.0 0.0  1.0 1.0 1.0
+model assets/chao.obj assets/chao.png          0.0 -1.0 0.0  0.0 0.0 0.0  5.0 0.1 5.0
+model assets/espada.obj assets/espada.png      2.0 0.0 -3.0  0.0 45.0 0.0  0.5 0.5 0.5
+
+light -0.2 -1.0 -0.3  1.0 1.0 1.0

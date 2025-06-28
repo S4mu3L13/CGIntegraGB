@@ -1,0 +1,13 @@
+﻿{
+  "configurations": [
+    {
+      "name": "x64-Release",
+      "generator": "Ninja",
+      "configurationType": "Release",
+      "buildRoot": "${projectDir}\\build\\${name}",
+      "installRoot": "${projectDir}\\install\\${name}",
+      "cmakeCommandArgs": "-DCMAKE_TOOLCHAIN_FILE=\"D:/Git/Git Upload/1-Computacao_Grafica/Projeto Final/vcpkg/scripts/buildsystems/vcpkg.cmake\"",
+      "variables": []
+    }
+  ]
+}

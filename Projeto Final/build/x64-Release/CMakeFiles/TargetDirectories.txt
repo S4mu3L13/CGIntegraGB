@@ -1,0 +1,3 @@
+D:/Git/Git Upload/1-Computacao_Grafica/Projeto Final/build/x64-Release/CMakeFiles/Visualizador3D.dir
+D:/Git/Git Upload/1-Computacao_Grafica/Projeto Final/build/x64-Release/CMakeFiles/edit_cache.dir
+D:/Git/Git Upload/1-Computacao_Grafica/Projeto Final/build/x64-Release/CMakeFiles/rebuild_cache.dir

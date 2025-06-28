@@ -1,0 +1,10 @@
+^D:\GIT\GIT UPLOAD\1-COMPUTACAO_GRAFICA\PROJETO FINAL\BUILD\CMAKEFILES\90E2C82F3A7CCA859BBBD1B516E964AE\GENERATE.STAMP.RULE
+setlocal
+"D:\aaaa Programaçoes\AAA Computação Gráfica\bin\cmake.exe" "-SD:/Git/Git Upload/1-Computacao_Grafica/Projeto Final" "-BD:/Git/Git Upload/1-Computacao_Grafica/Projeto Final/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "D:/Git/Git Upload/1-Computacao_Grafica/Projeto Final/build/Visualizador3D.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

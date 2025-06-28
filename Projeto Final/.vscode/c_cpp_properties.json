@@ -1,0 +1,17 @@
+{
+  "configurations": [
+    {
+      "name": "Win64",
+      "includePath": [
+        "${workspaceFolder}/include",
+        "D:/Git/Git Upload/1-Computacao_Grafica/Projeto Final/vcpkg/installed/x64-windows/include"
+      ],
+      "defines": [],
+      "compilerPath": "F:/mingw64/bin/g++.exe",
+      "cStandard": "c11",
+      "cppStandard": "c++17",
+      "intelliSenseMode": "windows-gcc-x64"
+    }
+  ],
+  "version": 4
+}

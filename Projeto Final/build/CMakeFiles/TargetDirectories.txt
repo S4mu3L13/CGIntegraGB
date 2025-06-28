@@ -1,0 +1,3 @@
+D:/Git/Git Upload/1-Computacao_Grafica/Projeto Final/build/CMakeFiles/Visualizador3D.dir
+D:/Git/Git Upload/1-Computacao_Grafica/Projeto Final/build/CMakeFiles/ALL_BUILD.dir
+D:/Git/Git Upload/1-Computacao_Grafica/Projeto Final/build/CMakeFiles/ZERO_CHECK.dir

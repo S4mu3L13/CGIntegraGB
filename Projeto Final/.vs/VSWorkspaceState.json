@@ -1,0 +1,14 @@
+{
+  "OutputFoldersPerTargetSystem": {
+    "Computador Local": [
+      "build\\x64-Release",
+      "install\\x64-Release"
+    ]
+  },
+  "ExpandedNodes": [
+    "",
+    "\\build",
+    "\\src"
+  ],
+  "PreviewInSolutionExplorer": false
+}

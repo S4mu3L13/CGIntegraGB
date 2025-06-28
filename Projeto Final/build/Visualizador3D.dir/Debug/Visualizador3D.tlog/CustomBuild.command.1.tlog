@@ -1,0 +1,10 @@
+^D:\GIT\GIT UPLOAD\1-COMPUTACAO_GRAFICA\PROJETO FINAL\CMAKELISTS.TXT
+setlocal
+"D:\aaaa Programaçoes\AAA Computação Gráfica\bin\cmake.exe" "-SD:/Git/Git Upload/1-Computacao_Grafica/Projeto Final" "-BD:/Git/Git Upload/1-Computacao_Grafica/Projeto Final/build" --check-stamp-file "D:/Git/Git Upload/1-Computacao_Grafica/Projeto Final/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
